@@ -19,7 +19,7 @@ async function initApp() {
     
     app.innerHTML = `
         <div class="container">
-            <h1>Advanced Loan Calculator</h1>
+            <h1>Simulador de créditos avanzado</h1>
             <label for="name">Nombre:</label>
             <input type="text" id="name">
             <label for="email">Correo Electrónico:</label>
